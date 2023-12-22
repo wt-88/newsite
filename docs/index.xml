@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>情系高墩营 on 新闻网</title>
-    <link>https://example.org/</link>
+    <link>https://wt-88.github.io/newsite/</link>
     <description>Recent content in 情系高墩营 on 新闻网</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wt-88.github.io/newsite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>从“四点发力”，高墩营村扎实推动乡村发展</title>
-      <link>https://example.org/content/tird/</link>
+      <link>https://wt-88.github.io/newsite/content/tird/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/content/tird/</guid>
+      <guid>https://wt-88.github.io/newsite/content/tird/</guid>
       <description>党建引领 校地联动 群众路线 以文化人</description>
     </item>
     <item>
       <title>关爱留守儿童，接力守护花蕾</title>
-      <link>https://example.org/content/posts/second/</link>
+      <link>https://wt-88.github.io/newsite/content/posts/second/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/content/posts/second/</guid>
+      <guid>https://wt-88.github.io/newsite/content/posts/second/</guid>
       <description>关心女童的健康成长是全社会的责任</description>
     </item>
     <item>
       <title>阅享书香 助力乡村儿童梦想</title>
-      <link>https://example.org/content/posts/first/</link>
+      <link>https://wt-88.github.io/newsite/content/posts/first/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/content/posts/first/</guid>
+      <guid>https://wt-88.github.io/newsite/content/posts/first/</guid>
       <description>在农村推动全民阅读，助推乡村振兴</description>
     </item>
   </channel>
