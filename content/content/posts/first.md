@@ -5,7 +5,7 @@ date: '2023-12-21'
 draft: false
 featured_image: 'https://wx2.sinaimg.cn/mw690/0083BKpxly1hl1822mtfkj30iy0cmk05.jpg'
 ---
-canonifyurls = true
+
 
 
 在农村推动全民阅读，助推乡村振兴
