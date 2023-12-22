@@ -5,7 +5,7 @@ date: '2023-12-21'
 draft: false
 featured_image: 'http://www.godppgs.gov.cn/pic/003/017/772/00301777255_7fea85a9.png'
 ---
-canonifyurls = true
+
 党建引领 校地联动 群众路线 以文化人
 
 <iframe src="//player.bilibili.com/player.html?aid=774005868&bvid=BV1B14y177jt&cid=862497479&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"width="800px" height="600px"> </iframe>
