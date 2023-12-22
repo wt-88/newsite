@@ -6,7 +6,7 @@ draft: false
 featured_image: 'https://wx2.sinaimg.cn/mw690/0083BKpxly1hl1822mtfkj30iy0cmk05.jpg'
 ---
 
-
+canonifyurls = true
 
 在农村推动全民阅读，助推乡村振兴
 在一望无垠的高原夏菜包裹下，一条平坦宽阔的沥青路笔直通向村里的文化广场，榆中高墩营的农家书屋就坐落于此。在大广场上角落里的书屋显得不太起眼，但承载了太多故事，这些故事不仅关于读书，也关于温暖，关于希望。
