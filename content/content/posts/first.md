@@ -3,7 +3,7 @@ title: '阅享书香 助力乡村儿童梦想'
 author: '王婷'
 date: '2023-12-21'
 draft: false
-featured_image: 'https://wx2.sinaimg.cn/mw690/0083BKpxly1hl1822mtfkj30iy0cmk05.jpg'
+featured_image: '"\images\222.jpg"'
 ---
 
 
@@ -16,23 +16,23 @@ featured_image: 'https://wx2.sinaimg.cn/mw690/0083BKpxly1hl1822mtfkj30iy0cmk05.j
 
 ## 推动全民阅读 助推乡村助兴
 2023年4月1日，在世界读书日来临之际，自强助学协会联合夏官营镇高墩营村、高墩营村妇联，举办“阅享书香、筑梦乡村”公益活动，共吸引一百余名学生和家长参加。
-![markdown](https://wx2.sinaimg.cn/mw690/0083BKpxly1hl1822mtfkj30iy0cmk05.jpg)
+![markdown](/images/222.jpg)
 
 ### 活动第一阶段
 在农家书屋里，协会成员针对现场各学段学生的学情，创设真实的学习情境，通过讲述“我们的节日·清明节”的传统习俗与历史由来，借助游戏的方式方法，联同孩子们朗诵有关“清明”和“春天”意境的诗歌等形式，引导孩子们习得阅读方法，培养阅读习惯，涵养阅读氛围，激发阅读兴趣。
 
-![markdown](https://wx3.sinaimg.cn/mw690/0083BKpxly1hl182aj6fhj30pn0h3tjl.jpg)
+![markdown](/images/21.jpg)
 
 ### 活动第二阶段
 协会成员同孩子们在乡村书屋文化阵地，通过领读、寄语、荐书、分享等方式，用普通话讲述了寓言故事、神话传说等书目蕴含的大道理，同孩子们分享了阅读的快乐，畅谈自己走进阅读、融入阅读的所思所想，并结合自身实际，教育引领孩子们用阅读开启成长之门，用阅读点亮精彩人生。
 
-![markdown](https://wx3.sinaimg.cn/mw690/0083BKpxly1hl182aj6fhj30pn0h3tjl.jpg)
+![markdown](/images/22.png)
 
 高墩营小学五年级学生王博龙说：“非常开心能和大哥哥大姐姐一起参加本次阅读活动，谢谢他们鼓励和肯定，这使我更加坚定了好好阅读的信念，以后我会努力养成读书的好习惯，每天坚持读一点书，做到“好读书，读好书”，我长大了也要像他们一样上大学。
 
 ### 活动最后阶段
 活动最后，还为参与活动的孩子们发放了文具及纪念品。
-![markdown](https://wx1.sinaimg.cn/mw690/0083BKpxly1hl182cgv62j30pu0h849f.jpg)
+![markdown](/images/23.jpg)
 
 通过此次活动，不仅拓宽了孩子们的知识面，更开阔了视野与眼界，更对培养他们爱读书、读好书、善读书的阅读习惯至关重要，用阅读激发孩子们的无限潜能，为孩子们注入蕴含生命力的阅读发展生态。
 
