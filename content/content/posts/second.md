@@ -3,7 +3,7 @@ title: '关爱留守儿童，接力守护花蕾'
 author: '卓玛草'
 date: '2023-12-21'
 draft: false
-featured_image: '\images\12.jpg'
+featured_image: '\images\111.jpg'
 ---
 
 

@@ -3,7 +3,7 @@ title: '阅享书香 助力乡村儿童梦想'
 author: '王婷'
 date: '2023-12-21'
 draft: false
-featured_image: '\images\222.jpg'
+featured_image: '\images\1.jpg'
 ---
 
 
