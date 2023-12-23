@@ -3,7 +3,7 @@ title: '阅享书香 助力乡村儿童梦想'
 author: '王婷'
 date: '2023-12-21'
 draft: false
-featured_image: 'http://www.gscn.com.cn/pic/003/010/539/00301053995_f89d7fcb.jpg'
+featured_image: 'https://n.sinaimg.cn/sinakd20220513s/742/w931h611/20220513/fa2f-714f422596a0c3625fd9f663ffaf4c6a.jpg'
 ---
 
 
