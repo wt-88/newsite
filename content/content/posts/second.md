@@ -8,7 +8,7 @@ featured_image: 'https://wx1.sinaimg.cn/mw690/0083BKpxly1hl1829cej7j30ov0glwii.j
 
 
 关心女童的健康成长是全社会的责任，而留守女童这个群体更应受到广泛的关注。为普及留守女童对于生理健康常识的认知，提高自我防范和自我保护能力，树立正确的科学观，同时锻炼大学生公益实践能力，由中国乡村发展基金会2023公益未来发起，西北民族大学学生资助管理中心主办，自强助学协会承办的“关爱留守女童，接力守护花蕾”活动于6月7日在榆中县高墩营小学正式启动。
-![markdown]("https://wx2.sinaimg.cn/mw690/0083BKpxly1hl1822mtfkj30iy0cmk05.jpg")
+![markdown](/images/1.jpg)
 
 
 
