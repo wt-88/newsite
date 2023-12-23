@@ -5,7 +5,6 @@ title = '新闻网'
 theme = 'ananke'
 hasCJKLanguage = true
 summaryLength = 16
-
 canonifyurls = true
 
 
