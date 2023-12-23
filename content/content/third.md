@@ -3,7 +3,7 @@ title: '从“四点发力”，高墩营村扎实推动乡村发展'
 author: '李相辉'
 date: '2023-12-21'
 draft: false
-featured_image: '"C:\Users\王婷\Desktop\newsite\static\images\11.png"'
+featured_image: 'https://tse1-mm.cn.bing.net/th/id/OIP-C.BtI_JBU4hKzFBjOt9SkacgHaFg?rs=1&pid=ImgDetMain'
 ---
 
 党建引领 校地联动 群众路线 以文化人
