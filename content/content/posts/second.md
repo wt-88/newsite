@@ -3,7 +3,7 @@ title: '关爱留守儿童，接力守护花蕾'
 author: '卓玛草'
 date: '2023-12-21'
 draft: false
-featured_image: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.6Og5IX99qBwfPh8LkwD-TwHaE8?rs=1&pid=ImgDetMain'
+featured_image: 'https://wx1.sinaimg.cn/mw690/0083BKpxly1hl1829cej7j30ov0glwii.jpg'
 ---
 
 
